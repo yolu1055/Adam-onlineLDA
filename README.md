@@ -2,7 +2,7 @@
 
 Implementation of [online LDA](https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf)[1] with [Adam] (https://arxiv.org/pdf/1412.6980.pdf)[2].
 
-Just the model itself. Omit the input, output, and main function.
+Only the model itself. Omit the input, output, and main function.
 
 Part of code is adapted from Matthew Hoffman's online lda code.
 
