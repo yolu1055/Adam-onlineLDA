@@ -1,10 +1,10 @@
 # Adam-onlineLDA
 
-Implementation of [online LDA](https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf)[1] with [Adam] (https://arxiv.org/pdf/1412.6980.pdf)[2].
+Implementation of [online LDA](https://www.cs.princeton.edu/~blei/papers/HoffmanBleiBach2010b.pdf)[1] with [Adam] (https://arxiv.org/pdf/1412.6980.pdf)[2]. Adam works very well with online LDA.
 
 Only the model itself. Omit the input, output, and main function.
 
-Part of code is adapted from Matthew Hoffman's online lda code.
+Part of code is adapted from [Matthew Hoffman's online lda code](https://github.com/blei-lab/onlineldavb).
 
 ##Reference
 [1] Hoffman, Matthew, Francis R. Bach, and David M. Blei. "Online learning for latent dirichlet allocation." advances in neural information processing systems. 2010.
